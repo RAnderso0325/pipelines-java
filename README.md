@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/v-reand/First%20Pipeline%20Example/_apis/build/status/First-Java.CI?branchName=master)](https://dev.azure.com/v-reand/First%20Pipeline%20Example/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
